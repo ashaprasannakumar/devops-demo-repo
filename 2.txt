@@ -1,2 +1,4 @@
 This is git practice with content
 Content created using echo
+Updating with one line
+
